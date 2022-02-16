@@ -1,2 +1,2 @@
 # layout-with-html-and-css
-My first Website Design with Code
+Beginnings of my first website design with code
